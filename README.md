@@ -17,7 +17,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=philipmudambo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
   ## 💰Orders and Enquiries:
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://https://linktr.ee/philipmudambo) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://linktr.ee/philipmudambo) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
