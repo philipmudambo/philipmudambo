@@ -1,5 +1,5 @@
-# 💫About Me:
-👋 Hi, I’m philip mudambo<br>👀 I am an analyst, developer and also a programmer.<br>💞️ I’m looking to collaborate on a few project with individuals with same interest.<br>📫 You can always reach me via philipmudambo1999@gmail.com<br> 
+# About Me:
+I’m Philip Mudambo, an analyst, developer, and also a programmer.<br>I’m looking to collaborate on a few projects with individuals with the same interests.<br> You can always write to me via philipmudambo1999@icloud.com<br> 
 
 
 ## 🌐Socials:
