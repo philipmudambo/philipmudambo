@@ -1,5 +1,5 @@
 # About Me:
-I’m Philip Mudambo, an analyst, developer, and also a programmer.<br> You can always write to me via https://linktr.ee/philipmudambo or philipmudambo1999@icloud.com<br> 
+I’m Philip Mudambo, an analyst, developer, and also a programmer.<br> You can always write to me via philipmudambo1999@icloud.com<br> 
 
 
 ## 🌐Socials:
