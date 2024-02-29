@@ -1,6 +1,5 @@
-# About Me:
-I’m Philip Mudambo, an analyst, developer, and also a programmer.<br> You can always write to me via philipmudambo1999@icloud.com<br> 
-
+## Philip Mudambo
+I am an analyst, developer, and also a programmer.<br> You can always write to me via philipmudambo1999@icloud.com<br> 
 
 ## 🌐Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/philips254) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mdcccxxiv ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/philipmudambo )
