@@ -1,5 +1,5 @@
 ## This is Philip Mudambo...
-A day without a line of code makes me feel uncomfortable<br> You've got something to share with me or inquire from me?<br> Feel free & write to me via philipmudambo1999@icloud.com<br> 
+A day without a line of code makes me feel uncomfortable!<br> You've got something to share with me or inquire from me?<br> Feel free & write to me via philipmudambo1999@icloud.com.<br> 
 
 ## 🌐Social Media
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/philips254) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mdcccxxiv ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/philipmudambo )
