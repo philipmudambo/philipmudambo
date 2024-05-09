@@ -1,4 +1,4 @@
-## Philip Mudambo
+## This is Philip Mudambo...
 A day without a line of code makes me feel uncomfortable<br> You've got something to share with me or inquire from me?<br> Feel free & write to me via philipmudambo1999@icloud.com<br> 
 
 ## 🌐Social Media
@@ -16,6 +16,6 @@ A day without a line of code makes me feel uncomfortable<br> You've got somethin
 ## 🔝Top Contributed Repository
 ![](https://github-contributor-stats.vercel.app/api?username=philipmudambo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-  ## 💰Orders & Enquiries
+  ## 💰Bookings & Orders
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://linktr.ee/philipmudambo) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
