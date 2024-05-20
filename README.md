@@ -1,4 +1,4 @@
-## THIS IS: PHILIP MUDAMBO
+## ABOUT PHILIP
 For inquiries & collaborations, write to me via philipmudambo1999@icloud.com.<br> 
 
 ## 🌐Social Media
